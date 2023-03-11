@@ -35,9 +35,9 @@
 
 <h3>Linux</h3>
 <hr>
-->pkg update && pkg upgrade <br>
-->pkg install git<br>
-->pkg install python3<br>
+->sudo apt update && pkg upgrade <br>
+->sudo apt install git<br>
+->sudo apt install python3<br>
 ->git clone https://github.com/kdo2064/propose<br>
 ->cd propose<br>
 ->python3 main.py<br>
