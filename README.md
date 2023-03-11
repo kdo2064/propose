@@ -22,13 +22,23 @@
 <li>Krishna<li>
 </ol>
 <hr>
-#command
-
-termux
+<h2>command</h2>
+<hr size="3rem">
+<h3>termux</h3>
 <hr>
-pkg update && pkg upgrade 
-pkg install git
-pkg install python3
-git clone https://github.com/kdo2064/propose
-cd propose
-python3 main.py
+->pkg update && pkg upgrade <br>
+->pkg install git<br>
+->pkg install python3<br>
+->git clone https://github.com/kdo2064/propose<br>
+->cd propose<br>
+->python3 main.py<br>
+
+
+<h3>Linux</h3>
+<hr>
+->pkg update && pkg upgrade <br>
+->pkg install git<br>
+->pkg install python3<br>
+->git clone https://github.com/kdo2064/propose<br>
+->cd propose<br>
+->python3 main.py<br>
