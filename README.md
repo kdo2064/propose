@@ -24,6 +24,8 @@
 
 <hr size="3rem">
 <img src="screenshot1.png" width="20%" height="50%">
+<img src="screenshot2.png" width="20%" height="50%">
+
 <hr>
 <h2>-->command<--</h2>
 <h3>termux</h3>
