@@ -21,6 +21,9 @@
 <li>Dev....</li>
 <li>Krishna<li>
 </ol>
+
+<hr size="3rem">
+<img src="screenshot1.png" width="50%" height=" 
 <hr>
 <h2>-->command<--</h2>
 <h3>termux</h3>
