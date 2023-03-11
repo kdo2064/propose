@@ -22,8 +22,7 @@
 <li>Krishna<li>
 </ol>
 <hr>
-<h2>command</h2>
-<hr size="3rem">
+<h2>-->command<--</h2>
 <h3>termux</h3>
 <hr>
 ->pkg update && pkg upgrade <br>
